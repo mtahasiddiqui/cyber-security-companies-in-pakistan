@@ -5,7 +5,7 @@ This github repository is meant to act as a guideline or reference point for stu
 <ol>
 <li>Trillium Information Security System <br /></li>
 
-<li>Ebryx <br /></li>
+<li>GRC Assure <br /></li>
 
 <li>Tranchulus <br /></li>
 
@@ -28,6 +28,8 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>Secisys <br /></li>
 
 <li>Catalyic Security <br /></li>
+
+<li>Ebryx <br /></li>
 
 <li>ComplianceWing <br /></li>
 </ol>
